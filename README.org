@@ -3,3 +3,6 @@
 Here I will keep a set of dotfiles for bash, i3, and other tools.
 
 I am hoping to add more information to this README at a later time.
+
+* TODO MAKE ORG FILE WITH SECTION FOR EACH DOTFILE
+
